@@ -1,0 +1,8 @@
+*.swp
+*.pyc
+*.out
+*.txt
+*.json
+gen-cpp
+gen-py
+test
